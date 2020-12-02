@@ -14,7 +14,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(background.jpg);
+  background: url(Background.jpg);
   background-size: cover;
   background-position: center;
 }
